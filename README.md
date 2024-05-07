@@ -1,2 +1,2 @@
 # CRLF
-Example GH Pages with Hugo
+Example GH Pages with Jekyll
