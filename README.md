@@ -1,1 +1,2 @@
-# super-duper-octo-dollop
+# CRLF
+Example GH Pages with Hugo
